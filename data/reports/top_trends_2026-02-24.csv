@@ -1,0 +1,6 @@
+tool_name,trend_score,rank,components
+c#,0.7,1,"{""stackoverflow.questions"": 0.7}"
+android,0.5221060586051561,2,"{""stackoverflow.questions"": 0.5221060586051561}"
+sentence-transformers/all-MiniLM-L6-v2,0.4,3,"{""huggingface.downloads"": 0.4}"
+html,0.32610551080199357,4,"{""stackoverflow.questions"": 0.32610551080199357}"
+google-bert/bert-base-uncased,0.08421963465372993,5,"{""huggingface.downloads"": 0.08421963465372993}"
