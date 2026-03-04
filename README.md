@@ -1,8 +1,8 @@
 
-GenAI Trend Tracker — No-Reddit Edition
+GenAI Trend Tracker 
 ======================================
 This package tracks GenAI/ML tools across GitHub, Product Hunt, Hugging Face, and Stack Overflow.
-Reddit integration has been removed.
+Reddit integration has been removed due to inaccessible API.
 
 Run steps (Linux, Python 3.10+):
 1. pip install -r requirements.txt
